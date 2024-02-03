@@ -1,4 +1,4 @@
-# SimpNAS
+# EasyNAS
 Manage your hard drives, volumes, network shares, users, groups through an excellent fast Web UI similar to OpenMediaVault, UnRAID and FreeNAS, but with a much more simpler approach.
 
 ## Installation
