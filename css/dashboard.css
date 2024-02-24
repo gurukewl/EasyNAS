@@ -1,11 +1,12 @@
 body {
   font-size: .875rem;
-/* background-image: url('https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg');
-/* background-size: cover;
-*  background-repeat: no-repeat;
-*  height: 100%;
-   margin: 0;
-*/
+  background-image: url('../img/apps/nasstorage.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 40%;
+  background-position: right bottom; 
+  height: 100%;
+  margin: 0;
 }
 
 .feather {
